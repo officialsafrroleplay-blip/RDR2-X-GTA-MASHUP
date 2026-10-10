@@ -1,0 +1,9 @@
+[
+  {"id":"a_engine_sultan","kind":"engine","gtaSource":null,"playHook":"h_audio_play"},
+  {"id":"a_engine_adder","kind":"engine","gtaSource":null,"playHook":"h_audio_play"},
+  {"id":"a_engine_bison","kind":"engine","gtaSource":null,"playHook":"h_audio_play"},
+  {"id":"a_rpg_fire","kind":"weapon","gtaSource":null,"playHook":"h_audio_play"},
+  {"id":"a_minigun_fire","kind":"weapon","gtaSource":null,"playHook":"h_audio_play"},
+  {"id":"a_pistol_fire","kind":"weapon","gtaSource":null,"playHook":"h_audio_play"},
+  {"id":"a_radio","kind":"radio","gtaSource":null,"playHook":"h_audio_play"}
+]

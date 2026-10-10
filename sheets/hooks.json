@@ -1,0 +1,9 @@
+[
+  {"id":"h_input","system":"key press polling (menu toggle)","game":"rdr2","route":"ASI plugin, own WndProc/raw input hook (no Script Hook RDR2)","entry":null,"verified":false},
+  {"id":"h_ui","system":"draw menu overlay in-game","game":"rdr2","route":"ASI plugin, D3D12 Present hook + immediate-mode UI","entry":null,"verified":false},
+  {"id":"h_gta_read","system":"read GTA V archives (RPF7) from {game:gta-v}","game":"gta-v","route":"plugin-side RPF7 reader, AES key read from the player's own gta5.exe at runtime","entry":null,"verified":false},
+  {"id":"h_model_convert","system":"convert GTA V model/texture formats to something RDR2 can stream","game":"rdr2","route":null,"entry":null,"verified":false},
+  {"id":"h_spawn_vehicle","system":"create a drivable vehicle entity from a converted model, with RDR2 physics","game":"rdr2","route":null,"entry":null,"verified":false},
+  {"id":"h_give_weapon","system":"give Arthur a weapon and have it fire projectiles/damage","game":"rdr2","route":null,"entry":null,"verified":false},
+  {"id":"h_audio_play","system":"play sounds read from GTA V audio archives","game":"rdr2","route":null,"entry":null,"verified":false}
+]

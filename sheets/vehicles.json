@@ -1,0 +1,5 @@
+[
+  {"id":"v_sultan","name":"Sultan","gtaModel":"sultan","gtaArchive":null,"handlingFrom":"rdr2","spawnHook":"h_spawn_vehicle","convertHook":"h_model_convert","engineSound":"a_engine_sultan","tested":false},
+  {"id":"v_adder","name":"Adder","gtaModel":"adder","gtaArchive":null,"handlingFrom":"rdr2","spawnHook":"h_spawn_vehicle","convertHook":"h_model_convert","engineSound":"a_engine_adder","tested":false},
+  {"id":"v_pickup","name":"Bison (pickup)","gtaModel":"bison","gtaArchive":null,"handlingFrom":"rdr2","spawnHook":"h_spawn_vehicle","convertHook":"h_model_convert","engineSound":"a_engine_bison","tested":false}
+]

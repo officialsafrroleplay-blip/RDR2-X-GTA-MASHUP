@@ -1,0 +1,5 @@
+[
+  {"id":"w_rpg","name":"Rocket Launcher","gtaWeapon":"WEAPON_RPG","gtaModel":null,"giveHook":"h_give_weapon","convertHook":"h_model_convert","sound":"a_rpg_fire","tested":false},
+  {"id":"w_minigun","name":"Minigun","gtaWeapon":"WEAPON_MINIGUN","gtaModel":null,"giveHook":"h_give_weapon","convertHook":"h_model_convert","sound":"a_minigun_fire","tested":false},
+  {"id":"w_pistol","name":"Pistol","gtaWeapon":"WEAPON_PISTOL","gtaModel":null,"giveHook":"h_give_weapon","convertHook":"h_model_convert","sound":"a_pistol_fire","tested":false}
+]

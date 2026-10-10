@@ -1,0 +1,4 @@
+[
+  {"id":"rdr2","name":"Red Dead Redemption 2","slug":"red-dead-redemption-2","role":"primary","mode":"story only","loader":"ultimate-asi-loader","installs":"{game}/ (asi), {game}/lml","gameVersion":null},
+  {"id":"gta-v","name":"Grand Theft Auto V Legacy","slug":"gta-v","role":"companion","mode":"read-only content source","loader":"none","installs":"never written to; files read via {game:gta-v}","gameVersion":null}
+]

@@ -1,0 +1,6 @@
+[
+  {"id":"m_toggle","label":"Open arsenal menu","key":"F6","inputHook":"h_input","uiHook":"h_ui"},
+  {"id":"m_tab_cars","label":"Cars","entries":["v_sultan","v_adder","v_pickup"],"uiHook":"h_ui"},
+  {"id":"m_tab_guns","label":"Weapons","entries":["w_rpg","w_minigun","w_pistol"],"uiHook":"h_ui"},
+  {"id":"m_tab_radio","label":"Radio","entries":["a_radio"],"uiHook":"h_ui"}
+]
